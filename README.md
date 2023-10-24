@@ -12,4 +12,23 @@
  <p><em>Nossa missão é:<strong> "Proporcionar auto-estima e qualidade de vida aos clientes"</strong>.</em></p>
  
  <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>  
- </html>
+<h2>Beneficios</h2>
+<ul>
+<li>Atendimento aos Clientes</li>
+<li>Espaço Diferenciado</li>
+<li>Localizaçâo</li>
+<li>Profissionais Qualificados</li>
+<ul>
+<img scr="![beneficios](https://github.com/tavinn33/tavinn/assets/146443909/d48e8edc-997e-49c8-ba39-ac15b141fc1d)
+
+
+
+
+
+
+
+
+
+</html>
+
+ 
