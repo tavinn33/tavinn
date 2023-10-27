@@ -19,8 +19,6 @@
 <li>Localizaçâo</li>
 <li>Profissionais Qualificados</li>
 <ul>
-<img scr="![beneficios](https://github.com/tavinn33/tavinn/assets/146443909/d48e8edc-997e-49c8-ba39-ac15b141fc1d)
-
 
 
 
